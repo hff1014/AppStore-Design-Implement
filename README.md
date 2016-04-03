@@ -19,6 +19,6 @@
 **Performance : 1second/app**
 
 ### *Front-end*
->JavaScript,Node.js,Meteor,MongoDB
+>JavaScript, Node.js, Meteor, MongoDB
 
 **Performance : 1K QPS**
